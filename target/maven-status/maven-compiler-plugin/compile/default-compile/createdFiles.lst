@@ -1,0 +1,5 @@
+com/SnuggleTexServer/demo/DemoApplication.class
+com/SnuggleTexServer/controller/SnuggleTexController.class
+com/SnuggleTexServer/config/SwaggerConfig.class
+com/SnuggleTexServer/bean/Peticion.class
+com/SnuggleTexServer/bean/Resultado.class
