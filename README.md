@@ -5,18 +5,30 @@ Gestor de Dependencias: Maven
 
 1. Instalar Maven
 
-sudo apt update
-sudo apt install default-jdk
+`sudo apt update`
+`sudo apt install default-jdk`
 
-Verificar la instalación de Java con el comando:
+2. Verificar la instalación de Java con el comando:
 
-java -version
+`java -version`
 
-Instalar Maven con apt:
+3. Instalar Maven con apt:
 
-sudo apt install maven
+`sudo apt install maven`
 
-Verificar la instalación de Maven con el comando:
+4. Verificar la instalación de Maven con el comando:
 
-mvn -version
+`mvn -version`
 
+5. Ingresar en la carpeta del proyecto
+6. Instalar dependencias del proyecto
+
+`mvn dependency:resolve`
+
+7. Empaquetar (compilar) proyecto
+
+`mvn package`
+
+8. Para ejecutar ingresar a la carpeta target y ejecutar
+
+`java -jar demo-0.0.1-SNAPSHOT.jar`
