@@ -3,7 +3,7 @@ Proceso de instalación:
 Sistema: Ubuntu 20.04 LTS
 Gestor de Dependencias: Maven
 
-1. Instalar Maven
+1. Instalar JDK
 
 `sudo apt update`
 `sudo apt install default-jdk`
