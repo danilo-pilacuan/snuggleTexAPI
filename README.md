@@ -6,6 +6,7 @@ Gestor de Dependencias: Maven
 1. Instalar JDK
 
 `sudo apt update`
+
 `sudo apt install default-jdk`
 
 2. Verificar la instalación de Java con el comando:
